@@ -1,0 +1,10 @@
+android.support.v7.widget.GridLayout;obj\Debug\90\res\layout\main.xml
+Button;obj\Debug\90\res\layout\main.xml
+HorizontalScrollView;obj\Debug\90\res\layout\main.xml
+item;obj\Debug\90\res\values\styles.xml
+LinearLayout;obj\Debug\90\res\layout\main.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+string;obj\Debug\90\res\values\strings.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;obj\Debug\90\res\layout\main.xml
